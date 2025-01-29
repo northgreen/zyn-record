@@ -2,7 +2,29 @@
     "$schema": "./schema.json",
     "data": [
         {
-            "icon": ""
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/ictyep-1.jpg?raw=true",
+            "name": "IctyePP",
+            "desc": "仿冒IctyeP建立的账户",
+            "link": "https://x.com/IctyePP",
+            "ori_link": "https://x.com/IctyeP"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/ictyep-1.jpg?raw=true",
+            "name": "IctyePPP",
+            "desc": "仿冒IctyeP建立的账户",
+            "link": "https://x.com/IctyePPP",
+            "ori_link": "https://x.com/IctyeP"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/ictyep-1.jpg?raw=true",
+            "name": "IctyePPPP",
+            "desc": "仿冒IctyeP建立的账户",
+            "link": "https://x.com/IctyePPPP",
+            "ori_link": "https://x.com/IctyeP"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/heron_mocki.jpg?raw=true",
+            "name": "沐栖仲鹭",
+            "desc": "仿冒沐栖仲鹭(HeronMocki)建立的账户",
+            "link": "https://x.com/HeronMocki2",
+            "ori_link": "https://x.com/HeronMocki"
         }
     ]
 }
