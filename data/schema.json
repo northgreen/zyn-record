@@ -26,6 +26,9 @@
                     },
                     "ori_link":{
                         "type":"string"
+                    },
+                    "commit":{
+                        "type":"string"
                     }
                 }
             }
