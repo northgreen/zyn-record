@@ -86,6 +86,18 @@
             "desc": "仿冒hsn(hsn8086)建立的账户",
             "link": "https://x.com/hsn8068",
             "ori_link": "https://x.com/hsn8086"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/tianxiusi.jpg?raw=true",
+            "name": "猫在雷研究院长",
+            "desc": "仿冒猫在雷研究院长(tianxiusi)建立的账户",
+            "link": "https://x.com/tianxiusi1",
+            "ori_link": "https://x.com/tianxiusi"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/VicoOci.jpg?raw=true",
+            "name": "vico_oci",
+            "desc": "仿冒vico_oci(VicoOci)建立的账户",
+            "link": "https://x.com/VicoOci1",
+            "ori_link": "https://x.com/VicoOci"
         }
     ]
 }
