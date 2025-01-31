@@ -1,8 +1,7 @@
-name: 回报一个ZYN账号
+name: Report a fake account on X
 description: File a bug report.
 title: "回报TWITTER上ZYN的行动"
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+labels: ["report"]
 assignees:
   - northgreen
 body:
@@ -11,4 +10,6 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
   - type: input
-    label: "涉及仿冒的账户名称"
+    id: fack_id
+    attributes:
+      label: 冒仿者的ID
