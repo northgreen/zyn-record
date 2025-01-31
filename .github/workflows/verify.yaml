@@ -27,4 +27,4 @@ jobs:
         run: npm install ajv-cli -g
 
       - name: Validate data.json with schema.json
-        run: ajv test -s data/schema.json -d data/data.json
+        run: ajv test -s data/schema.json -d data/data.json --valid

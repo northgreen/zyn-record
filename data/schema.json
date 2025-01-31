@@ -10,7 +10,8 @@
                 "properties": {
                     "icon":{
                         "title": "icon of record",
-                        "type":"string"
+                        "type":"string",
+                        "pattern": "^(https://github\\.com/northgreen/zyn-record/blob/main/recourse/).+\\.(jpg|png|gif|svg)(\\?raw=true)$"
                     },
                     "name":{
                         "title": "name of record",
@@ -18,20 +19,26 @@
                     },
                     "link":{
                         "title": "link of record",
-                        "type":"string"
+                        "type":"string",
+                        "pattern": "https://x\\.com/(\\w){1,15}"
                     },
                     "desc":{
                         "title": "desc of record",
                         "type":"string"
                     },
                     "ori_link":{
-                        "type":"string"
+                        "type":"string",
+                        "title": "origan link",
+                        "pattern": "https://x\\.com/(\\w){1,15}"
                     },
                     "commit":{
                         "type":"string"
                     }
-                }
-            }
+                },
+                "additionalProperties": false,
+                "required": ["name", "link","desc","ori_link"]
+            },
+            "uniqueItems": true
         }
     }
 }
