@@ -1,5 +1,5 @@
-name: Report a fake account on X
-description: File a bug report.
+name: 回报twitter（X）一个新的zyn账号
+description: 回报TWITTER上ZYN的行动
 title: "回报TWITTER上ZYN的行动"
 labels: ["report"]
 assignees:
@@ -8,8 +8,16 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        感谢回报，我哦们将会很快受理你的提交
+
+        请注意，尽可能避免重复提交相同的信息，这不会使我们的效率升高
   - type: input
     id: fack_id
     attributes:
       label: 冒仿者的ID
+    validations:
+      required: true
+  - type: input
+    id: true_id
+    attributes:
+      label: 被冒仿者的ID
