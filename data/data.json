@@ -154,12 +154,11 @@
             "link": "https://x.com/qinglongxiangm",
             "ori_link": "https://x.com/qinglongxiangmo"
         },{
-            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/<file>.jpg?raw=true",
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/ZR_100505.jpg?raw=true",
             "name": "zara",
             "desc": "仿冒zara(ZR_100505)建立的账户",
             "link": "https://x.com/FR_sbqiyue",
             "ori_link": "https://x.com/ZR_100505",
-            "commit": "TODO:头像也找不到了"
         },{
             "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/Happinessa_029.jpg?raw=true",
             "name": "炸鱼片片拌饭",
@@ -252,6 +251,30 @@
             "desc": "仿冒霧島💚散香(Kirishima503)建立的账户",
             "link": "https://x.com/Kirishima504",
             "ori_link": "https://x.com/Kirishima503"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/kjkluk.jpg?raw=true",
+            "name": "川井 橘音🏳️‍⚧️",
+            "desc": "仿冒川井 橘音🏳️‍⚧️(kjkluk)建立的账户",
+            "link": "https://x.com/kjkluk1",
+            "ori_link": "https://x.com/kjkluk"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/ZR_100505.jpg?raw=true",
+            "name": "zara",
+            "desc": "仿冒zara(ZR_100505)建立的账户",
+            "link": "https://x.com/ZR_100507",
+            "ori_link": "https://x.com/ZR_100505"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/LiuSuK_Arcaea.jpg?raw=true",
+            "name": "☆流苏☆",
+            "desc": "仿冒☆流苏☆(LiuSuK_Arcaea)建立的账户",
+            "link": "https://x.com/LiuSuK_Arcaae",
+            "ori_link": "https://x.com/LiuSuK_Arcaea"
+        },{
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/wi9511465880.jpg?raw=true",
+            "name": "wi95114",
+            "desc": "仿冒wi95114(wi9511465880)建立的账户",
+            "link": "https://x.com/wi951146588",
+            "ori_link": "https://x.com/wi9511465880"
         }
     ]
 }
