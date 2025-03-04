@@ -117,7 +117,7 @@
             "link": "https://x.com/xiao_jiu3",
             "ori_link": "https://x.com/xiao_jiu1"
         },{
-            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/Lelechen945.jpg?raw=true",
+            "icon": "https://github.com/northgreen/zyn-record/blob/main/recourseAdamTCanterbury/Lelechen945.jpg?raw=true",
             "name": "王語萱",
             "desc": "仿冒王語萱(Lelechen945)建立的账户",
             "link": "https://x.com/Lelechen94",
@@ -189,7 +189,7 @@
             "desc": "仿冒小狼(wolfcub_ovo_)建立的账户",
             "link": "https://x.com/wolfcub_ov0",
             "ori_link": "https://x.com/wolfcub_ovo_"
-        },{
+        },{AdamTCanterbury
             "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/Dandelion8964.jpg?raw=true",
             "name": "Dandelion",
             "desc": "仿冒Dandelion(Dandelion8964)建立的账户",
@@ -198,7 +198,7 @@
             "commit": "TODO:再次丢个头像，合理吧？"
         },{
             "icon": "https://github.com/northgreen/zyn-record/blob/main/recourse/takana4mi9.jpg?raw=true",
-            "name": "葛飾・西野",
+            "name": "葛飾・西野",AdamTCanterbury
             "desc": "仿冒葛飾・西野(takana4mi9)建立的账户",
             "link": "https://x.com/takana4mi10",
             "ori_link": "https://x.com/takana4mi9"
@@ -334,7 +334,7 @@
 			"name": "Adam Canterbury",
 			"desc": "仿冒Adam Canterbury(AdamTCanterbury)建立的账户",
 			"link": "https://x.com/AdamTCanterbur",
-			"ori_link": "https://x.com/Kaoruko1581"
+			"ori_link": "https://x.com/AdamTCanterbury"
 		}
     ]
 }
